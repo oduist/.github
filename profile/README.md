@@ -13,10 +13,10 @@ You can modify the code for your own business needs, but publishing or distribut
 **Odoo Partners who want to include our products in their service offerings must obtain a partner agreement for redistribution rights.** 
 
 To ensure continuous development, maintenance, and reliable use of our software, our applications and modules are available in two versions:
-**Community Edition and Business Edition**. Additionally, some modules are available only for Business Edition users,
+**Community Edition and Enterprise Edition**. Additionally, some modules are available only for Enterprise Edition users,
 offering specialized tools and integrations that enhance productivity, security, and performance.
 
-By choosing Business Edition, you gain access to our full suite of solutions, ensuring a stable, secure,
+By choosing Enterprise Edition, you gain access to our full suite of solutions, ensuring a stable, secure,
 and continuously evolving platform while supporting the ongoing development of our software.
 
 For more details visit our WEB site: [oduist.com](https://oduist.com)
