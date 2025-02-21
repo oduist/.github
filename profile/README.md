@@ -5,7 +5,7 @@ making them **freely available for download** from our GitHub repositories.
 
 After the change date, our products will transition to the LGPLv3 license, ensuring long-term openness while maintaining a sustainable development model.
 
-Our Business Source License (BSL) allows free commercial use of our products.
+Our Business Source License (BSL) allows free production use of our products.
 You can modify the code for your own business needs, but publishing or distributing these modifications is not permitted.
 
 **If you wish to resell our modules, you'll need to purchase a commercial license.**
